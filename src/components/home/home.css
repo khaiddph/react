@@ -1,0 +1,34 @@
+.oder{
+    display: grid;
+    grid-template-columns: 1fr 250px;
+}
+.product{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
+    text-align: center;
+    padding: 20px 30px;
+}
+.product_item{
+ border: 1px solid turquoise ;
+ padding: 10px;
+
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+
+}
+.select_dm{
+    margin: 10px 450px 10px 30px;
+    
+}
+.pt{
+text-align: right;
+}
+.pt_item{
+    display: inline-block;
+    margin: 10px 30px;
+    border: 2px solid turquoise;
+    padding: 10px ;
+}

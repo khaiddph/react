@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +27,15 @@
 
 .App-link {
   color: #61dafb;
+}
+.menu{
+  
+  background: lightblue;
+  text-align: right;
+}
+.list_router{
+  display: inline-block;
+  margin:  30px;
 }
 
 @keyframes App-logo-spin {
